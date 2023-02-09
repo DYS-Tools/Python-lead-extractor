@@ -1,4 +1,4 @@
 ### start projet
 <pre>
-python views.py
+python3 views.py
 </pre>
