@@ -1,0 +1,15 @@
+# pip install -r requirement.txt # for use it 
+
+flask
+flask_sqlalchemy
+flask_bootstrap
+
+psycopg2
+psycopg2-binary
+
+requests
+jsonify
+googlesearch-python
+
+BeautifulSoup4
+bs4
